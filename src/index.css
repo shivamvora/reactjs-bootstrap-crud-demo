@@ -21,3 +21,25 @@ code {
   justify-content: center;
   align-items: center;
 }
+.fas{
+  color: green;
+  
+
+}
+.fas:hover{
+  color: white;
+}
+.dlt{
+  color: red;
+  position: relative;
+
+}
+.fas .fa-trash-alt:hover{
+  color: white;
+}
+
+.ey{
+  color:rgb(171, 171, 226);
+  
+}
+
